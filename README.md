@@ -58,10 +58,6 @@ Make sure you have the following installed:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=AntDesign)
 
-## 🛰️ My GitHub Galaxy
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
 ## 🌌 Let's Connect
 Embark on this journey with me and let's explore the universe of code together!
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
