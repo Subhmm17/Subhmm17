@@ -1,7 +1,7 @@
 # 🌟 Welcome to Shubham Mishra's GitHub Universe! 🌟
 
 ## 🚀 About Me
-Hey there! I'm Shubham Mishra, a cosmic explorer in the realm of code. My journey began in the distant galaxy of [Your Hometown], where I discovered my love for technology. Now, I'm on a mission to create out-of-this-world applications and share my discoveries with the universe.
+Hey there! I'm Shubham Mishra, a cosmic explorer in the realm of code. My journey began in the distant galaxy, where I discovered my love for technology. Now, I'm on a mission to create out-of-this-world applications and share my discoveries with the universe.
 
 - 🌌 **Explorer:** Navigating through JavaScript, React, and Node.js constellations.
 - 🛠 **Builder:** Crafting intricate worlds with elegant code and creative designs.
